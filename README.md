@@ -14,7 +14,7 @@ Prerequisites: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https:/
 > clone/fork 🏗 scaffold-eth:
 
 ```bash
-git clone https://github.com/austintgriffith/scaffold-eth.git
+git clone https://github.com/anotheryeti-master/scaffold-eth.git
 ```
 
 > install and start your 👷‍ Hardhat chain:
